@@ -1,3 +1,11 @@
+<!-- unleashedapi -->
+<p align="center">
+  <a href="https://unleashedapi.com/?utm_source=github&utm_medium=readme&utm_campaign=stonedmodder&utm_content=ps5_pkg_virtual_shop-">
+    <img src="https://raw.githubusercontent.com/StonedModder/unleashedapi/main/assets/banner-slim.png" alt="UnleashedAPI — uncensored OpenAI-compatible AI API. Free to start." width="100%">
+  </a><br>
+  Fork by <a href="https://github.com/StonedModder">StonedModder</a>. <a href="https://unleashedapi.com/?utm_source=github&utm_medium=readme&utm_campaign=stonedmodder&utm_content=ps5_pkg_virtual_shop-"><strong>UnleashedAPI</strong></a> — uncensored OpenAI-compatible models, free to start.
+</p>
+
 # 🎮 PS5 PKG Virtual Shop
 
 ![imagem](https://i.imgur.com/uy0G3pW.png)
